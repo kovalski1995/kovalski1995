@@ -1,5 +1,5 @@
 - 👋  @kovalski1995
-- 🌱 I’m currently learning - Oracle Apex, JS, PL/SQL/ Pt
+- 🌱 I’m currently learning - Apex, JS, PL/SQL, Python.
 
 
 <!---
